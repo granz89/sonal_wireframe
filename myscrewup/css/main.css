@@ -1,0 +1,45 @@
+h1{
+	font-family: Oswald, "sans serif";
+}
+
+.all{
+	background-color: #EBE8DC;
+	text-align: center;
+}
+
+.first{
+	background: transparent url("../img/mars-pano.jpg") no-repeat center top;
+	background-size: cover;
+	width: 300px;
+}
+
+.second{
+	background-color: #EBE8DC;
+	background-size: cover;
+}
+
+
+.third{
+	padding-top: 5rem;
+}
+
+/*.third{
+	background-color: #ED5A2A;
+}*/
+
+.forth{
+	background-color: #404143;
+}
+
+.about{
+	font-family: "open sans";
+	text-align: center;
+	padding: 0 16rem;
+	line-height: 150%;
+}
+
+.icons{
+	display: inline-block;
+	margin: 5em 1%;
+
+}

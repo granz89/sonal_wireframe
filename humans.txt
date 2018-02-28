@@ -1,0 +1,22 @@
+# TEAM
+
+Designer & Developer: Adriana Granieri
+Site: www.agranieri.ca
+GitHub: https://github.com/granz89/
+Twitter: @granz89
+Location: Ottawa, Ontario
+
+---
+
+# THANKS
+
+Nav and coding help <http://sonalsharma.com>
+Big Image humans.txt <http://krud3.deviantart.com/art/Guist-279841907>
+
+---
+
+# TECHNOLOGY
+
+- Sublime Text
+- Github
+- Hover.com
